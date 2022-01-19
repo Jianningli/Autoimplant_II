@@ -2,25 +2,21 @@
 
 
 
-
+'''
 Towards the Automatization of Cranial Implant Design in Cranioplasty II 
 └── MICCAI 2021 Challenge
-│   └── [Website](https://autoimplant2021.grand-challenge.org/)
-└── Proceedings  ([SpringerLink](https://link.springer.com/book/10.1007/978-3-030-92652-6))
-│   ├── [Personalized Calvarial Reconstruction in Neurosurgery](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_1)
-│   ├── [test/train/val]_cleaned_start_states.json
-│   ├── time_to_keypoint_fps_{FPS}.json
-│   ├── time_to_obj_state_fps_{FPS}.json
-│   └── clean_clip_to_contact_point.json
-└── trained_weights
-│   └── *.pytar
-└── objects_16k  -----  YCB objects modified for PyBullet
-    └── OBJECTNAME
-        └── google_16k
-            ├── textured.urdf  -----  URDF to load in PyBullet
-            ├── textured_big.obj  -----  Object mesh
-            ├── textured_big.obj.mtl  -----  Corresponding texture
-            ├── textured_bigconvex.obj  -----  Simplified mesh for collision 
-            │                                   (Calculated using [v-hacd])
-            └── *_keypoints.json  -----  Keypoints on the object mesh
+└── Proceedings  
+│   ├── Personalized Calvarial Reconstruction in Neurosurgery
+│   ├── Qualitative Criteria for Feasible Cranial Implant Designs
+│   ├── Segmentation of Defective Skulls from CT Data for Tissue Modelling
+│   ├── Improving the Automatic Cranial Implant Design in Cranioplasty by Linking Different Datasets
+│   └── Learning to Rearrange Voxels in Binary Segmentation Masks for Smooth Manifold Triangulation
+│   └── A U-Net Based System for Cranial Implant Design with Pre-processing and Learned Implant Filtering
+│   └── Sparse Convolutional Neural Network for Skull Reconstruction
+│   └── Cranial Implant Prediction by Learning an Ensemble of Slice-Based Skull Completion Networks
+│   └── PCA-Skull: 3D Skull Shape Modelling Using Principal Component Analysis
+│   └── Cranial Implant Design Using V-Net Based Region of Interest Reconstruction
+'''
 
+([SpringerLink](https://link.springer.com/book/10.1007/978-3-030-92652-6))
+[Personalized Calvarial Reconstruction in Neurosurgery](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_1)
