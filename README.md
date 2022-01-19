@@ -2,7 +2,7 @@
 
 
 
-'''
+```
 Towards the Automatization of Cranial Implant Design in Cranioplasty II 
 └── MICCAI 2021 Challenge
 └── Proceedings  
@@ -16,7 +16,7 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
 │   └── Cranial Implant Prediction by Learning an Ensemble of Slice-Based Skull Completion Networks
 │   └── PCA-Skull: 3D Skull Shape Modelling Using Principal Component Analysis
 │   └── Cranial Implant Design Using V-Net Based Region of Interest Reconstruction
-'''
+```
 
 ([SpringerLink](https://link.springer.com/book/10.1007/978-3-030-92652-6))
 [Personalized Calvarial Reconstruction in Neurosurgery](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_1)
