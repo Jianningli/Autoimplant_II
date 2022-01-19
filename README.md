@@ -2,7 +2,7 @@
 
 
 
-```
+
 Towards the Automatization of Cranial Implant Design in Cranioplasty II 
 └── MICCAI 2021 Challenge
 │   └── [Website](https://autoimplant2021.grand-challenge.org/)
@@ -23,4 +23,4 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
             ├── textured_bigconvex.obj  -----  Simplified mesh for collision 
             │                                   (Calculated using [v-hacd])
             └── *_keypoints.json  -----  Keypoints on the object mesh
-```
+
