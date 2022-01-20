@@ -1,6 +1,4 @@
-# Autoimplant_II
-
-
+# Autoimplant_II [Autoimplant_II](https://autoimplant2021.grand-challenge.org/)
 
 ```
 Towards the Automatization of Cranial Implant Design in Cranioplasty II 
@@ -29,5 +27,4 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
 08. [Cranial Implant Prediction by Learning an Ensemble of Slice-Based Skull Completion Networks](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_8). [[code](https://github.com/YouJianFengXue/Cranial-implant-prediction-by-learning-an-ensemble-of-slice-based-skull-completion-networks)]
 09. [PCA-Skull: 3D Skull Shape Modelling Using Principal Component Analysis](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_9). [[code](https://github.com/1eiyu/ShapePrior)]
 10. [Cranial Implant Design Using V-Net Based Region of Interest Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_10).
-11. [Challenge Page](https://autoimplant2021.grand-challenge.org/)
-12. [AutoImplant I](https://link.springer.com/book/10.1007/978-3-030-64327-0). [code](https://github.com/Jianningli/tmi). [paper](https://ieeexplore.ieee.org/document/9420655).  [Challenge Page](https://autoimplant.grand-challenge.org/Home/)   
+
