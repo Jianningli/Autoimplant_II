@@ -8,12 +8,12 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
 │   ├── Qualitative Criteria for Feasible Cranial Implant Designs
 │   ├── Segmentation of Defective Skulls from CT Data for Tissue Modelling
 │   ├── Improving the Automatic Cranial Implant Design in Cranioplasty by Linking Different Datasets
-│   └── Learning to Rearrange Voxels in Binary Segmentation Masks for Smooth Manifold Triangulation
-│   └── A U-Net Based System for Cranial Implant Design with Pre-processing and Learned Implant Filtering
-│   └── Sparse Convolutional Neural Network for Skull Reconstruction
-│   └── Cranial Implant Prediction by Learning an Ensemble of Slice-Based Skull Completion Networks
-│   └── PCA-Skull: 3D Skull Shape Modelling Using Principal Component Analysis
-│   └── Cranial Implant Design Using V-Net Based Region of Interest Reconstruction
+│   ├── Learning to Rearrange Voxels in Binary Segmentation Masks for Smooth Manifold Triangulation
+│   ├── A U-Net Based System for Cranial Implant Design with Pre-processing and Learned Implant Filtering
+│   ├── Sparse Convolutional Neural Network for Skull Reconstruction
+│   ├── Cranial Implant Prediction by Learning an Ensemble of Slice-Based Skull Completion Networks
+│   ├── PCA-Skull: 3D Skull Shape Modelling Using Principal Component Analysis
+│   ├── Cranial Implant Design Using V-Net Based Region of Interest Reconstruction
 ```
 
 ├── Proceedings: [SpringerLink](https://link.springer.com/book/10.1007/978-3-030-92652-6)     
