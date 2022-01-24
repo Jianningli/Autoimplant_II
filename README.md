@@ -21,10 +21,10 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
 02. [Qualitative Criteria for Feasible Cranial Implant Designs](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_2).
 03. [Segmentation of Defective Skulls from CT Data for Tissue Modelling](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_3).
 04. [Improving the Automatic Cranial Implant Design in Cranioplasty by Linking Different Datasets](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_4). [[**<ins>code</ins>**](https://github.com/MWod/AutoImplant_2021)].
-6. [Learning to Rearrange Voxels in Binary Segmentation Masks for Smooth Manifold Triangulation](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_5). [[**code**](https://github.com/Jianningli/voxel_rearrangement)]
+6. [Learning to Rearrange Voxels in Binary Segmentation Masks for Smooth Manifold Triangulation](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_5). [[**<ins>code</ins>**](https://github.com/Jianningli/voxel_rearrangement)]
 7. [A U-Net Based System for Cranial Implant Design with Pre-processing and Learned Implant Filtering](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_6).
-8. [Sparse Convolutional Neural Network for Skull Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_7). [[**code**](https://github.com/akroviakov/SparseSkullCompletion)]
-9. [Cranial Implant Prediction by Learning an Ensemble of Slice-Based Skull Completion Networks](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_8). [[**code**](https://github.com/YouJianFengXue/Cranial-implant-prediction-by-learning-an-ensemble-of-slice-based-skull-completion-networks)]
-10. [PCA-Skull: 3D Skull Shape Modelling Using Principal Component Analysis](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_9). [[**code**](https://github.com/1eiyu/ShapePrior)]
+8. [Sparse Convolutional Neural Network for Skull Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_7). [[**<ins>code</ins>**](https://github.com/akroviakov/SparseSkullCompletion)]
+9. [Cranial Implant Prediction by Learning an Ensemble of Slice-Based Skull Completion Networks](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_8). [[**code</ins>**](https://github.com/YouJianFengXue/Cranial-implant-prediction-by-learning-an-ensemble-of-slice-based-skull-completion-networks)]
+10. [PCA-Skull: 3D Skull Shape Modelling Using Principal Component Analysis](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_9). [[**<ins>code</ins>**](https://github.com/1eiyu/ShapePrior)]
 11. [Cranial Implant Design Using V-Net Based Region of Interest Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_10).
 
