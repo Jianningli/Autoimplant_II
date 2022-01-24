@@ -20,7 +20,7 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
 01. [Personalized Calvarial Reconstruction in Neurosurgery](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_1).
 02. [Qualitative Criteria for Feasible Cranial Implant Designs](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_2).
 03. [Segmentation of Defective Skulls from CT Data for Tissue Modelling](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_3).
-04. [Improving the Automatic Cranial Implant Design in Cranioplasty by Linking Different Datasets](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_4). [[<span style="color:red"> code </span>](https://github.com/MWod/AutoImplant_2021)].
+04. [Improving the Automatic Cranial Implant Design in Cranioplasty by Linking Different Datasets](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_4). [code](https://github.com/MWod/AutoImplant_2021)].
 6. [Learning to Rearrange Voxels in Binary Segmentation Masks for Smooth Manifold Triangulation](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_5). [[code](https://github.com/Jianningli/voxel_rearrangement)]
 7. [A U-Net Based System for Cranial Implant Design with Pre-processing and Learned Implant Filtering](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_6).
 8. [Sparse Convolutional Neural Network for Skull Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-92652-6_7). [[code](https://github.com/akroviakov/SparseSkullCompletion)]
