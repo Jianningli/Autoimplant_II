@@ -76,7 +76,7 @@ mesh.plot()
 mesh=mesh.extract_surface().triangulate()
 mesh.save('result.stl')
 
-# after generating the processed mesh. Intersection can be done using ([MeshLab](https://www.meshlab.net/):
+# after generating the processed mesh. Intersection can be done using MeshLab:
 #MeshLab - Loading result.stl and original.stl - Filters - Remeshing, Simplification, Reconstruction - Mesh Boolean: Intersection
 
 
