@@ -31,7 +31,7 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
 
 
 
-code snippets for implant post-processing (thinning)
+├── code snippets for implant post-processing (thinning)
 
 ```
 import nrrd
