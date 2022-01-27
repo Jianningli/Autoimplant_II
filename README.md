@@ -33,7 +33,7 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
 
 ├── code snippets for implant post-processing (thinning & border adjustment)
 
-```
+```Python
 import nrrd
 import pyvista as pv
 import numpy as np
