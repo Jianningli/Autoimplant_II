@@ -31,7 +31,7 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
 
 
 
-├── code snippets for implant post-processing (thinning)
+├── code snippets for implant post-processing (thinning & border adjustment)
 
 ```
 import nrrd
@@ -75,4 +75,12 @@ for  i in range(len(ind)):
 mesh.plot()
 mesh=mesh.extract_surface().triangulate()
 mesh.save('result.stl')
+
+# after generating the processed mesh. Intersection can be done using ([MeshLab](https://www.meshlab.net/)):
+#MeshLab - Loading result.stl and original.stl - Filters - Remeshing, Simplification, Reconstruction - Mesh Boolean: Intersection
+
+
 ```
+
+
+
