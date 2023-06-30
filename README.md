@@ -19,7 +19,8 @@ Towards the Automatization of Cranial Implant Design in Cranioplasty II
 │   ├── https://github.com/Jianningli/voxel_rearrangement
 │   ├── https://github.com/akroviakov/SparseSkullCompletion
 │   ├── https://github.com/1eiyu/ShapePrior
-│   ├── 
+└── Summary Paper
+│   ├── Towards clinical applicability and computational efficiency in automatic cranial implant design: An overview of the AutoImplant 2021 cranial implant design challenge
 ```
 
 ├── Proceedings: [SpringerLink](https://link.springer.com/book/10.1007/978-3-030-92652-6)     
