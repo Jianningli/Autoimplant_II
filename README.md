@@ -1,4 +1,4 @@
-# [Autoimplant_II](https://autoimplant2021.grand-challenge.org/)
+# [Autoimplant_II](https://autoimplant2021.grand-challenge.org/)([summary paper](https://www.sciencedirect.com/science/article/pii/S1361841523001251))
 
 ```
 Towards the Automatization of Cranial Implant Design in Cranioplasty II 
